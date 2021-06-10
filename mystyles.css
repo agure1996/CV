@@ -1,0 +1,22 @@
+	p > em {color:red}
+	p {font-family:Arial;color:green}
+	h1{font-family:Times New Roman,Times,serif; color:blue}
+	h5{font-size:15; color:purple}
+	
+	
+	
+
+	
+					
+	/** <!-- *{color:purple}-->
+	<!--  is normally put in the style class
+this couldnt override the p.maintext one but it does the rest-->
+	<!-- 	<style type = "text/css">
+p.main-text{font-weight:bold; color:red}
+#featured-text{font-style:italic; color:green}
+p>em{color:orange}
+
+</style>
+
+the avove is how in text documentation looks like
+--> */
